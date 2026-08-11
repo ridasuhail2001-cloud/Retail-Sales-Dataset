@@ -6,7 +6,7 @@ Handling Missing Values: Identified missing values in the Item, Price Per Unit, 
 
 Duplicate Removal: Checked the dataset for duplicate records using Excel's Remove Duplicates tool to ensure data integrity.
 
-Data Type Correction: Converted the Date, Price Per Unit, and Total Spent columns to their appropriate data types (date and numeric formats).
+Data Type Correction: Converted the Date, Price Per Unit, and Total Spent columns to their appropriate data types.
 
 Column Header Standardization: Renamed all column headers to lowercase for consistency and ease of reference.
 
